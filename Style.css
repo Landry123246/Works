@@ -1,0 +1,102 @@
+nav{
+    background-color: antiquewhite;
+    overflow: hidden;
+    margin-bottom: 1cm;
+    visibility: visible;
+}
+nav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.active {
+    background-color: aquamarine;
+}
+.forever{
+    display: flex;
+}
+#par{
+    margin-left: 1cm;
+    margin-top: 1cm;
+}
+.image{
+    display: block;
+    margin-right: auto;
+    width: 50%;
+}
+#imagesource{
+    margin-left: 1cm;
+}
+.paragraph{
+    text-align: justify;
+    margin: 20px;
+}
+{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-image: url(Djcontroller.jpg);
+    max-width: 500px;
+    margin: 100px auto;
+    padding: 20px;
+    border: 1px solid;
+    border-radius: 5px;
+    text-align: center;
+}
+
+h2{
+    margin-bottom: 20px;
+}
+label{
+    display: block;
+    margin-bottom: 5px;
+}
+input{
+    padding: 10px;
+    margin-bottom: 10px;
+    border-style: solid;
+    border-color: brown;
+    border-radius: 5px;
+    font-size: 16px;
+    background: none;
+    color: aquamarine;
+}
+button[type="submit"]{
+    padding: 10px 20px;
+    background-color: black;
+    color: antiquewhite;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
+button[type="submit"]:hover{
+    background-color: antiquewhite;
+}
+p {
+    margin-top: 20px;
+}
+a{
+    text-decoration: none;
+    color: darkblue;
+}
+.hey{
+    border-color: green;
+    border-style: solid;
+}
+#emailbar{
+    color:aliceblue;
+    margin-left: -5cm;
+}
+#passbar{
+    color: antiquewhite;
+    margin-left: -5cm;
+    top: 1cm;
+}
+.log{
+    color: aquamarine;
+}
